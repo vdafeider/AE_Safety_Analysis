@@ -187,7 +187,7 @@ Synthetic
 To open and use the app:
 
 1. Install **Power BI Desktop** (version 2.149.1429.0 recommended) from the [official website](https://www.microsoft.com/en-us/download/details.aspx?id=58494).  
-2. Open the file: `MarketingProject.pbix`  
+2. Open the file: `AE_pills.pbix`  
 3. To update the dataset, reconnect the `.csv` files from the Dataset folder using **Power Query**.
 
 ---
