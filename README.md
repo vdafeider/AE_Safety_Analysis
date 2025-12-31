@@ -1,11 +1,11 @@
 # MEDICATION ADVERSE EVENTS SAFTY ANALYSIS IN POWER BI
-This project uses synthetic CDISC-style clinical trial data for demonstration and educational purposes.
 
 ---
 
 ## ⚠️ Disclaimer
 
 > **All analyses are exploratory and illustrative; no clinical or safety conclusions should be inferred.**
+> **This project uses synthetic CDISC-style clinical trial data for demonstration and educational purposes.**
 
 ---
 
